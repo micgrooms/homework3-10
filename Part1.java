@@ -7,6 +7,6 @@ public class Part1 {
         ///Users/michaelgroomsjr/IdeaProjects/HWD2/src/main/java/homework
 
 
-        
+
     }
 }
